@@ -7,7 +7,7 @@ replicaCount: 4
 image:
   pullPolicy: IfNotPresent
   repository: 578310434439.dkr.ecr.ap-northeast-2.amazonaws.com/front-login
-  version: main-cecfb84
+  version: main-ba6ed8a
 
 imagePullSecrets: []
 nameOverride: ""
