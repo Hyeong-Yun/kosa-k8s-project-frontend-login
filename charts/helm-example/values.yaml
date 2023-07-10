@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   pullPolicy: IfNotPresent
-  repository: 578310434439.dkr.ecr.ap-northeast-2.amazonaws.com/cicd-test
+  repository: 578310434439.dkr.ecr.ap-northeast-2.amazonaws.com/front-login
   version: main-cecfb84
 
 imagePullSecrets: []
